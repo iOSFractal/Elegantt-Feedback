@@ -1,7 +1,7 @@
 ---
 name: Ask for help
 about: Ask us a question
-title: "[HELP]"
+title: "[HELP] "
 labels: question
 assignees: iOSFractal
 
